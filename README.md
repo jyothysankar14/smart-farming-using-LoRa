@@ -1,6 +1,3 @@
-
----
-
 ## 🧠 Hardware Used
 
 - LoRa SX1278 Module (433 MHz)
@@ -23,7 +20,5 @@
 | Relay          | D3          |
 | LoRa           | SPI Pins    |
 
----
 
-## 🧪 Sensor Data Format (Sent over LoRa)
 
